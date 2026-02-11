@@ -11,5 +11,13 @@
     "avatar":"https://github.com/nahidhk.png",
     "project":"https://github.com/nahidhk/Resent-Dental-Centre-",
   }
-  
+  "baject":{
+    "curency":"$"
+    "price": 100,
+    "pay": 38
+  }
+  "clint":{
+    "name":"Dr. Md. Arifaul Islam",
+    "email":""
+  }
 }
